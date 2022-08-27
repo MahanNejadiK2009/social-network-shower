@@ -1,0 +1,35 @@
+body{
+    font-family:sans-serif
+}
+#bb{
+    position: absolute;
+    margin-left: 40px; 
+    margin-top: 5px;
+
+    }
+    #iimmgg{
+        float: left;
+        height: 35px;
+    }
+    #ppp{
+        transition: .8s;
+        border-radius: 26px;
+        height: auto;
+        margin-left: 50px;
+        width: 150px;
+        align-items: center;
+        padding: 10px;
+        position: absolute;
+        padding-right: 10px;
+        background-color: rgba(0, 0, 0, 0);
+        color: rgba(0, 0, 0, 0);
+    }
+    #ppp:hover{
+        background-color: black;
+        color: white;
+    }
+    #bbbbbb{
+        margin-top: 10px;
+        margin-left: 20px;
+        position: absolute;
+    }
